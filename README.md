@@ -10,7 +10,7 @@
   <a href="https://imperium-mc.net">Website</a> ·
   <a href="https://discord.gg/UTu2FQmVGK">Discord</a> ·
   <a href="https://imperium-mc.tebex.store/">Webstore</a> ·
-  <a href="https://www.tiktok.com/@imperium.mcv2">TikTok</a>
+  <a href="https://tiktok.com/@imperium.mcv2">TikTok</a>
 </p>
 
 ## About ImperiumMC
@@ -96,6 +96,6 @@ The ImperiumMC name and logos are claimed as unregistered brand identifiers; no 
 - **Minecraft server:** `play.imperium-mc.net`
 - **Discord:** https://discord.gg/UTu2FQmVGK
 - **Webstore:** https://imperium-mc.tebex.store/
-- **TikTok:** https://www.tiktok.com/@imperium.mcv2
+- **TikTok:** https://tiktok.com/@imperium.mcv2
 
 For branding questions, contact the ImperiumMC team through Discord.
