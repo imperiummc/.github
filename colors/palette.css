@@ -1,0 +1,11 @@
+/* ImperiumMC official color palette. */
+:root {
+  --imperium-albus: #FFFFFF;
+  --imperium-aurum: #F6E0C9;
+  --imperium-ruber: #F44C4C;
+  --imperium-ater: #000000;
+  --imperium-caeruleus: #4169E1;
+  --imperium-viridis: #55F255;
+  --imperium-purpura: #AA34EA;
+  --imperium-gradient: linear-gradient(90deg, var(--imperium-purpura), var(--imperium-caeruleus));
+}

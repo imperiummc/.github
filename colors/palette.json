@@ -1,0 +1,18 @@
+{
+  "brand": "ImperiumMC",
+  "colors": {
+    "albus": { "english": "white", "hex": "#FFFFFF" },
+    "aurum": { "english": "gold", "hex": "#F6E0C9" },
+    "ruber": { "english": "red", "hex": "#F44C4C" },
+    "ater": { "english": "black", "hex": "#000000" },
+    "caeruleus": { "english": "blue", "hex": "#4169E1" },
+    "viridis": { "english": "green", "hex": "#55F255" },
+    "purpura": { "english": "purple", "hex": "#AA34EA" }
+  },
+  "primaryGradient": {
+    "from": "purpura",
+    "to": "caeruleus",
+    "css": "linear-gradient(90deg, #AA34EA, #4169E1)"
+  },
+  "miniMessage": "<gradient:#AA34EA:#4169E1><bold>ImperiumMC</bold></gradient>"
+}
