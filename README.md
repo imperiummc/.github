@@ -72,7 +72,7 @@ Suggested attribution:
 
 > [ImperiumMC](https://imperium-mc.net) branding, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unmodified.
 
-For an adaptation, replace “Unmodified” with a description such as “Modified by [creator]: seasonal effects added.” Where hyperlinks are unavailable, show `imperium-mc.net` and `creativecommons.org/licenses/by/4.0/` in the accompanying credits or description.
+For an adaptation, replace “Unmodified” with a description such as “Modified by \[Creator\]: seasonal effects added.” Where hyperlinks are unavailable, show `imperium-mc.net` and `creativecommons.org/licenses/by/4.0/` in the accompanying credits or description.
 
 See [NOTICE.md](NOTICE.md) for attribution details.
 
