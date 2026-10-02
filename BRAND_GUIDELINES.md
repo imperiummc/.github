@@ -113,7 +113,7 @@ fair use, criticism, commentary, parody, or news reporting. Such uses may not re
 For questions or additional brand permissions, contact the team through [Discord](https://discord.gg/UTu2FQmVGK).
 
 - **Website:** https://imperium-mc.net
-- **Minecraft server:** `play.imperium-mc.net`
+- **Server:** `play.imperium-mc.net`
 - **Discord:** https://discord.gg/UTu2FQmVGK
-- **Webstore:** https://imperium-mc.tebex.store/
+- **Store:** https://imperium-mc.tebex.store
 - **TikTok:** https://tiktok.com/@imperium.mcv2

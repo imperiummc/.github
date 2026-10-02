@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://imperium-mc.net">Website</a> ·
   <a href="https://discord.gg/UTu2FQmVGK">Discord</a> ·
-  <a href="https://imperium-mc.tebex.store/">Webstore</a> ·
+  <a href="https://imperium-mc.tebex.store">Store</a> ·
   <a href="https://tiktok.com/@imperium.mcv2">TikTok</a>
 </p>
 
@@ -26,7 +26,7 @@ crime, participate in warfare, or create a life entirely your own. The world evo
 - **Connect:** `play.imperium-mc.net`
 - **Join the community:** [Discord](https://discord.gg/UTu2FQmVGK) for announcements, updates, and support.
 - **Explore ImperiumMC:** [imperium-mc.net](https://imperium-mc.net).
-- **Support the server:** [Visit our webstore](https://imperium-mc.tebex.store/).
+- **Support the server:** [Visit our store](https://imperium-mc.tebex.store).
 
 ## A world of connected systems
 

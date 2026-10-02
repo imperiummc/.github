@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://imperium-mc.net">Website</a> ·
   <a href="https://discord.gg/UTu2FQmVGK">Discord</a> ·
-  <a href="https://imperium-mc.tebex.store/">Webstore</a> ·
+  <a href="https://imperium-mc.tebex.store">Store</a> ·
   <a href="https://tiktok.com/@imperium.mcv2">TikTok</a>
 </p>
 
