@@ -75,10 +75,10 @@ The permission to identify and discuss ImperiumMC does not grant trademark permi
 |---|---|---|
 | Albus | White | `#FFFFFF` |
 | Aurum | Gold | `#F6E0C9` |
-| Ruber | Red | `#F44C4C` |
+| Ruber | Red | `#E14141` |
 | Ater | Black | `#000000` |
 | Caeruleus | Blue | `#4169E1` |
-| Viridis | Green | `#55F255` |
+| Viridis | Green | `#69E141` |
 | Purpura | Purple | `#AA34EA` |
 
 Primary gradient: **Purpura → Caeruleus**, `#AA34EA → #4169E1`.

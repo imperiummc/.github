@@ -56,10 +56,10 @@ Latin names are the primary color identifiers; English names are secondary.
 |---|---|---|
 | **Albus** | White | `#FFFFFF` |
 | **Aurum** | Gold | `#F6E0C9` |
-| **Ruber** | Red | `#F44C4C` |
+| **Ruber** | Red | `#E14141` |
 | **Ater** | Black | `#000000` |
 | **Caeruleus** | Blue | `#4169E1` |
-| **Viridis** | Green | `#55F255` |
+| **Viridis** | Green | `#69E141` |
 | **Purpura** | Purple | `#AA34EA` |
 
 **Purpura** and **Caeruleus** are the primary brand colors. ImperiumMC currently has no official typeface.

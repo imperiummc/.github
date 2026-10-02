@@ -3,10 +3,10 @@
   "colors": {
     "albus": { "english": "white", "hex": "#FFFFFF" },
     "aurum": { "english": "gold", "hex": "#F6E0C9" },
-    "ruber": { "english": "red", "hex": "#F44C4C" },
+    "ruber": { "english": "red", "hex": "#E14141" },
     "ater": { "english": "black", "hex": "#000000" },
     "caeruleus": { "english": "blue", "hex": "#4169E1" },
-    "viridis": { "english": "green", "hex": "#55F255" },
+    "viridis": { "english": "green", "hex": "#69E141" },
     "purpura": { "english": "purple", "hex": "#AA34EA" }
   },
   "primaryGradient": {
