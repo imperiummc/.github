@@ -47,6 +47,19 @@ primary brand colors, and the primary gradient runs from Purpura to Caeruleus.
 
 The same values are available as [JSON](colors/palette.json) and [CSS variables](colors/palette.css).
 
+### Rank colors
+
+Server ranks use the following colors. Engineer and Supporter use colors outside the brand palette.
+
+| Rank                    | Hex       | Palette color |
+|-------------------------|-----------|---------------|
+| Imperator/Administrator | `#E14141` | ruber         |
+| Engineer                | `#EE91E2` | —             |
+| Creator                 | `#69E141` | viridis       |
+| Moderator               | `#4169E1` | caeruleus     |
+| Staff                   | `#F6E0C9` | aurum         |
+| Supporter               | `#E1AA41` | —             |
+
 ## Logo
 
 | Type              | File                                 |
