@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/imperiummc-banner.webp" alt="ImperiumMC — politics, economics, warfare, and city life">
+  <img src="/assets/banner.webp" alt="ImperiumMC — politics, economics, warfare, and city life">
 </p>
 
 <h1 align="center">ImperiumMC Branding</h1>
@@ -24,13 +24,13 @@ This repository is the official source for reusable ImperiumMC brand assets. We 
 ## Official assets
 
 <p align="center">
-  <img src="/assets/imperiummc-logo.png" width="450" alt="Official ImperiumMC logo">
+  <img src="/assets/logo.png" width="450" alt="Official ImperiumMC logo">
 </p>
 
 | Asset | File |
 |---|---|
-| Primary logo | [Transparent PNG](/assets/imperiummc-logo.png) |
-| Banner | [WebP](/assets/imperiummc-banner.webp) |
+| Primary logo | [Transparent PNG](/assets/logo.png) |
+| Banner | [WebP](/assets/banner.webp) |
 | Color values | [JSON palette](/colors/palette.json) |
 | CSS variables | [CSS palette](/colors/palette.css) |
 

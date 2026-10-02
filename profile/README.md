@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://imperium-mc.net">
-    <img src="/assets/imperiummc-banner.webp" alt="ImperiumMC — politics, economics, warfare, and city life" width="100%">
+    <img src="/assets/banner.webp" alt="ImperiumMC — politics, economics, warfare, and city life" width="100%">
   </a>
 </p>
 
