@@ -15,9 +15,11 @@
   <a href="https://tiktok.com/@imperium.mcv2">TikTok</a>
 </p>
 
-**ImperiumMC** is an advanced nations roleplay Minecraft server built around freedom, player choice, and a living world shaped by its community.
+**ImperiumMC** is an advanced nations roleplay Minecraft server built around freedom, player choice, and a living world
+shaped by its community.
 
-Choose a nation and forge your own path. Enter politics, build a business, grow an industry, practice medicine, turn to crime, participate in warfare, or create a life entirely your own. The world evolves through the actions of its players.
+Choose a nation and forge your own path. Enter politics, build a business, grow an industry, practice medicine, turn to
+crime, participate in warfare, or create a life entirely your own. The world evolves through the actions of its players.
 
 ## Get started
 
@@ -39,9 +41,11 @@ Governments can change. Businesses can rise. Nations can expand. Wars can reshap
 
 ## Development
 
-We build custom plugins and interconnected systems for the ImperiumMC world. This GitHub organization supports the development of those projects and the resources behind the server.
+We build custom plugins and interconnected systems for the ImperiumMC world. This GitHub organization supports the
+development of those projects and the resources behind the server.
 
-Follow development updates, share ideas, and talk with the team in our [Discord community](https://discord.gg/UTu2FQmVGK).
+Follow development updates, share ideas, and talk with the team in
+our [Discord community](https://discord.gg/UTu2FQmVGK).
 
 ---
 
